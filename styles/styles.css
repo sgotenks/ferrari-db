@@ -206,6 +206,22 @@ h4 {
   font-size: var(--heading-font-size-m);
 }
 
+.ferrari h4 {
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+    font-family: "Title-Font";
+    font-weight: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    font-size: 16px;
+    line-height: 1.5em;
+    margin: 24px 0;
+    color: #181818;
+    letter-spacing: 0;
+}
+
 .underline h3::after {
   border-bottom: 2px solid var(--highlight-background-color);
   content: "";
