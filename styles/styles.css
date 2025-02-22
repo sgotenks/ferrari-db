@@ -152,6 +152,19 @@ h1 {
   text-shadow: 1px 1px 2px #000;
 }
 
+.article h1 {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-family: "Title-Font";
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  font-size: 36px;
+  line-height: 1.2em;
+}
+
 h2 {
   font-size: var(--heading-font-size-l);
 }
