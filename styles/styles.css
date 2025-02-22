@@ -125,6 +125,20 @@ body {
   overflow-x: hidden;
 }
 
+.ferrari body {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-family: "Body-Font";
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: normal;
+  font-size: 13px;
+  line-height: 1.6em;
+  color: #303030;
+}
+
 body.appear {
   display: unset;
 }
