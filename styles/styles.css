@@ -125,7 +125,7 @@ body {
   overflow-x: hidden;
 }
 
-.ferrari body {
+body.ferrari {
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
   -o-font-smoothing: antialiased;
