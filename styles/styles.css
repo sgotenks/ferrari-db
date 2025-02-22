@@ -166,6 +166,18 @@ h1 {
   text-shadow: initial;
 }
 
+.ferrari h5 {
+  font-family: "Body-Font";
+  font-weight: normal;
+  font-stretch: normal;
+  letter-spacing: 1px;
+  font-size: 12px;
+  line-height: 1.27em;
+  text-transform: uppercase;
+  text-transform: uppercase;
+  color: #da291c;
+}
+
 h2 {
   font-size: var(--heading-font-size-l);
 }
