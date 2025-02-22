@@ -181,6 +181,7 @@ h1 {
   max-width: 896px;
   padding: 0 48px;
   margin: 0px auto 48px;
+  text-transform: uppercase;
 }
 
 .ferrari h5 {
