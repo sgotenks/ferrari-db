@@ -178,6 +178,9 @@ h1 {
   font-size: 36px;
   line-height: 1.2em;
   text-shadow: initial;
+  max-width: 896px;
+  padding: 0 48px;
+  margin: 0px auto 48px;
 }
 
 .ferrari h5 {
@@ -190,6 +193,9 @@ h1 {
   text-transform: uppercase;
   text-transform: uppercase;
   color: #da291c;
+  max-width: 896px;
+  padding: 0 48px;
+  margin: 0px auto 48px;
 }
 
 h2 {
