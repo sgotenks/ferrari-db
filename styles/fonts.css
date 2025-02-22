@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: 'Title-Font';
-  src: url('/esports/static/assets/fonts/Ferrari-SansMedium.woff') format('woff');
+  src: url('/fonts/Ferrari-SansMedium.woff') format('woff');
   font-weight:  400;
   font-style:   normal;
   font-display: fallback;
