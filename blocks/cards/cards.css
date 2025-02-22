@@ -39,3 +39,8 @@
   object-fit: cover;
   border-radius: 9px;
 }
+
+.ferrari .cards h4, .ferrari .cards h5{
+  padding: initial;
+  margin: initial;
+}
