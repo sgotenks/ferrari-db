@@ -400,7 +400,7 @@ main img {
 main .section {
   padding: 32px 0;
   margin: 0;
-  background-color: #fff;
+  background-color: red;
   top: 0;
 }
 
